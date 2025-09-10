@@ -1,4 +1,2 @@
 # Smart-Carbon-Tracking-Website
-A smart carbon tracking website with an interactive frontend to calculate emissions from food, transport, and electricity usage. Provides weekly &amp; monthly insights through interactive charts, helping users track, compare, and reduce their carbon footprint effectively.
-
-Click to visit the website :  https://nityaa20.github.io/Smart-Carbon-Tracking-Website/
+A Smart Carbon Tracking Website designed with an interactive and user-friendly frontend to calculate carbon emissions from food consumption, transportation, and electricity usage. The platform empowers users to monitor their daily activities and automatically generate weekly and monthly insights through interactive charts and visualizations. By providing clear comparisons and trends, it helps individuals understand their environmental impact, identify high-emission habits, and take effective steps to reduce their overall carbon footprint.
